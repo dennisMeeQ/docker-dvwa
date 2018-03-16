@@ -1,8 +1,5 @@
 #!/bin/bash
 
-echo '[+] Starting mysql...'
-service mysql start
-
 echo '[+] Starting apache'
 service apache2 start
 
